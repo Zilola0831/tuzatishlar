@@ -1,0 +1,225 @@
+*{
+    font-family: "Poppins" , sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1220px;
+    text-align: center;
+}
+header{
+    padding-top: 100px;
+    margin-bottom: 512px;
+}
+.header-box{
+    display: flex;
+    gap: 86px;
+    justify-content: space-between;
+}
+.text{
+    color: #1786F9;
+    font-size: 38px;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 52.44px;
+    word-wrap: break-word;
+    margin-bottom: 27px;
+}
+.paragraf{
+    color: black;
+    font-size: 18px;
+    line-height: 27.18px;
+    word-wrap: break-word;
+    margin-bottom: 27px;
+}
+.header-box-r-boxs{
+    display: flex;
+    gap: 18px;
+}
+.header-1boxs{
+
+    width: 200px;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.header-1boxs i{
+    font-size: 40px;
+}
+.main-icons{
+    display: flex;
+    gap: 96px;
+    margin-bottom: 24px;
+}
+.main-icons1{
+    display: flex;
+    gap: 180px;
+    margin-bottom: 40px;
+}
+.main-icon{
+    display: flex;
+    gap: 13px;
+}
+.easy{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 70px;
+}
+.easy-box img{
+    border-radius: 30px;
+    margin-bottom: 12px;
+}
+.easy-box h2{
+    color: #1786F9;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 39.61px;
+    word-wrap: break-word;
+    margin-bottom: 42px;
+}
+button{
+    display: flex;
+    justify-content: flex-start;
+    background: #F8D617;
+     box-shadow: 1px 4px 6px rgba(0, 0, 0, 0.25); 
+     border-radius: 7px;
+     padding: 16px 29px;
+     border: none;
+     color: #171F4E;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 22.26px;
+    word-wrap: break-word
+}
+.easy1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 600px;
+}
+.easy1 img{
+    border-radius: 30px;
+    margin-bottom: 27px;
+}
+.easy1-boxs h2{
+    text-align: start;
+    color: #1786F9;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 39.61px;
+    word-wrap: break-word;
+    margin-bottom: 27px;
+}
+.ppp{
+    text-align: start;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 31.59px;
+    word-wrap: break-word;
+    margin-bottom: 89px;
+}
+.pp{
+    text-align: start;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 31.59px;
+    word-wrap: break-word;
+    margin-bottom: 56px;
+}
+.h3{
+    color: #171F4E;
+    font-size: 40px;
+    font-weight: 600;
+   word-wrap: break-word;
+   margin-bottom: 22px;
+}
+.p{
+    color: black;
+    font-size: 18px;
+   font-weight: 500;
+   word-wrap: break-word;
+   margin-bottom: 65px;
+}
+.footer-boxs{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 165px;
+}
+.footer-box p{
+    color: black;
+    font-size: 24px;
+   font-weight: 500;
+   line-height: 32.16px;
+   word-wrap: break-word
+}
+.phone{
+    display: flex;
+    justify-content: space-between;
+}
+.phone-boxs{
+    height: 318px;
+    width: 544px;
+    background: #CEDFFF;
+     border-radius: 18px;
+     margin-bottom: 31px;
+}
+.f{
+    background: #FFEDED;;
+}
+.phone-boxs img:nth-child(1){
+    position: relative;
+    top: -40px;
+}
+.phone-boxs img:nth-child(2){
+    position: relative;
+    top: -240px;
+}
+.phone-footer-boxs{
+    display: flex;
+    gap: 100px;
+    margin-bottom: 531px;
+}
+.phone-footer-box h2{
+    color: #171F4E;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40.96px;
+    word-wrap: break-word;
+    text-align: start;
+    margin-bottom: 34px;
+}
+.phone-arrow{
+    text-align: start;
+    display: flex;
+    gap: 14px;
+    justify-content: flex-start;
+}
+.phone-arrows{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-bottom: 13px;
+
+}
+.phone-arrow i{
+    color: #1786F9;
+    font-size: 30px;
+}
+.phone-arrow p{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23.04px;
+    word-wrap: break-word;
+}
